@@ -1,0 +1,2 @@
+# loyalty-management
+Internship task
