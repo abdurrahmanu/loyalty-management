@@ -1,5 +1,5 @@
 <template>
-  <div class="sm:px-[100px]">
+  <div class="sm:px-[100px] text-sm mobile:text-[16px]">
     <footer class="border-t border-t-white flex justify-between pt-6 pb-16">
       <div class="flex gap-4 max-w-[287px]">
         <home_svg />
